@@ -1,0 +1,43 @@
+[
+    {
+      "user_id": "John",
+      "last_topics": ["Physics", "Mathematics", "Computer Science", "Physics", "Physics"]
+    },
+    {
+      "user_id": "Gus",
+      "last_topics": ["Mathematics", "Computer Science", "Physics", "Mathematics", "Physics"]
+    },
+    {
+      "user_id": "Jemma",
+      "last_topics": ["Computer Science", "History", "History", "History", "Computer Science"]
+    },
+    {
+      "user_id": 4,
+      "last_topics": ["Physics", "Mathematics", "Physics", "Mathematics", "Physics"]
+    },
+    {
+      "user_id": 5,
+      "last_topics": ["Physics", "Physics", "Mathematics", "Computer Science", "Mathematics"]
+    },
+    {
+      "user_id": 6,
+      "last_topics": ["Computer Science", "Physics", "Physics", "Mathematics", "Physics"]
+    },
+    {
+      "user_id": 7,
+      "last_topics": ["Mathematics", "Physics", "Mathematics", "Computer Science", "Physics"]
+    },
+    {
+      "user_id": 8,
+      "last_topics": ["Physics", "Computer Science", "Physics", "Mathematics", "Mathematics"]
+    },
+    {
+      "user_id": 9,
+      "last_topics": ["Computer Science", "Mathematics", "Physics", "Physics", "Computer Science"]
+    },
+    {
+      "user_id": 10,
+      "last_topics": ["Mathematics", "Computer Science", "Physics", "Computer Science", "Mathematics"]
+    }
+  ]
+  

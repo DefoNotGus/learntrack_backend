@@ -1,0 +1,93 @@
+[
+    {
+      "category": "Mathematics",
+      "title": "Linear Algebra Basics",
+      "description": "Introduction to vectors, matrices, and their applications.",
+      "photo_url": "https://example.com/linear_algebra.jpg"
+    },
+    {
+      "category": "Physics",
+      "title": "Newton's Laws of Motion",
+      "description": "Understand the fundamental laws of motion and their applications.",
+      "photo_url": "https://example.com/newton.jpg"
+    },
+    {
+      "category": "Computer Science",
+      "title": "Python for Beginners",
+      "description": "Learn the basics of Python programming.",
+      "photo_url": "https://example.com/python.jpg"
+    },
+    {
+      "category": "Mathematics",
+      "title": "Calculus 101",
+      "description": "Explore the fundamentals of differentiation and integration.",
+      "photo_url": "https://example.com/calculus.jpg"
+    },
+    {
+      "category": "Physics",
+      "title": "Quantum Mechanics Overview",
+      "description": "Discover the basics of quantum mechanics and wave functions.",
+      "photo_url": "https://example.com/quantum.jpg"
+    },
+    {
+      "category": "Computer Science",
+      "title": "Data Structures and Algorithms",
+      "description": "Learn about arrays, linked lists, and algorithm design.",
+      "photo_url": "https://example.com/data_structures.jpg"
+    },
+    {
+      "category": "Chemistry",
+      "title": "Organic Chemistry Essentials",
+      "description": "Understand hydrocarbons, functional groups, and reactions.",
+      "photo_url": "https://example.com/organic_chemistry.jpg"
+    },
+    {
+      "category": "Biology",
+      "title": "Introduction to Genetics",
+      "description": "Study DNA, genes, and the basics of heredity.",
+      "photo_url": "https://example.com/genetics.jpg"
+    },
+    {
+      "category": "History",
+      "title": "World War II Overview",
+      "description": "Learn about key events, figures, and outcomes of WWII.",
+      "photo_url": "https://example.com/ww2.jpg"
+    },
+    {
+      "category": "Literature",
+      "title": "Shakespeare's Tragedies",
+      "description": "Explore the themes and characters in Shakespeare's tragic plays.",
+      "photo_url": "https://example.com/shakespeare.jpg"
+    },
+    {
+      "category": "Economics",
+      "title": "Microeconomics Basics",
+      "description": "Understand supply, demand, and market equilibrium.",
+      "photo_url": "https://example.com/microeconomics.jpg"
+    },
+    {
+      "category": "Art",
+      "title": "Impressionism Movement",
+      "description": "Learn about the origins and key figures of Impressionism.",
+      "photo_url": "https://example.com/impressionism.jpg"
+    },
+    {
+      "category": "Geography",
+      "title": "Introduction to Climate Zones",
+      "description": "Study the different climate zones and their characteristics.",
+      "photo_url": "https://example.com/climate_zones.jpg"
+    },
+    {
+      "category": "Philosophy",
+      "title": "Ethics and Morality",
+      "description": "Examine key concepts and theories in ethics and morality.",
+      "photo_url": "https://example.com/ethics.jpg"
+    },
+    {
+      "category": "Computer Science",
+      "title": "Introduction to Machine Learning",
+      "description": "Learn the fundamentals of machine learning and its applications.",
+      "photo_url": "https://example.com/machine_learning.jpg"
+    }
+  ]
+  

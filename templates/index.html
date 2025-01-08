@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Recommendations</title>
+</head>
+<body>
+    <h1>User Recommendations</h1>
+    <ul>
+        {% for user_id in users %}
+        <li><a href="/recommend/{{ user_id }}">User {{ user_id }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
