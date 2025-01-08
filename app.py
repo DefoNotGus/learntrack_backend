@@ -20,7 +20,7 @@ user_topics_dict = {str(user["user_id"]): user["last_topics"] for user in user_t
 model_path = "sentence_transformer_model.pkl"
 if not os.path.exists(model_path):
     print("Downloading model...")
-    url = "YOUR_DIRECT_DOWNLOAD_LINK"  # Replace with your Google Drive direct link
+    url = "https://drive.google.com/uc?id=1MoC1dGshzHVuiNE1Bdo_JJzoJzvkW9JM"  # Replace with your Google Drive direct link
     urllib.request.urlretrieve(url, model_path)
 
 with open(model_path, 'rb') as f:
