@@ -1,14 +1,42 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>User Recommendations</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LearnTrack API</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2rem;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+    </style>
 </head>
 <body>
-    <h1>User Recommendations</h1>
-    <ul>
-        {% for user_id in users %}
-        <li><a href="/recommend/{{ user_id }}">User {{ user_id }}</a></li>
-        {% endfor %}
-    </ul>
+    <div class="container">
+        <h1>Welcome to the LearnTrack API</h1>
+        <p>This API provides personalized content recommendations based on user topics and available content.</p>
+        <h2>How to Use</h2>
+        <p>To interact with the API, send a POST request to the <code>/recommend</code> endpoint with the following JSON payload:</p>
+        <pre>
+{
+    "user_topics": ["machine learning", "data science"],
+    "content": [
+        {"category": "AI", "title": "Introduction to AI", "description": "Learn the basics of AI"},
+        {"category": "ML", "title": "Deep Learning Basics", "description": "An intro to deep learning"}
+    ]
+}
+        </pre>
+        <p>The API will return the top 5 recommended knowledge cards based on the provided user topics.</p>
+        <h2>Test the Connection</h2>
+        <p>To check the connection, visit the <a href="/?json=true">JSON welcome endpoint</a>.</p>
+    </div>
 </body>
 </html>
